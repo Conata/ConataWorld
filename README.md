@@ -1,7 +1,6 @@
 # ConataWorld
 
-![ピッチコンセプト_02](https://user-images.githubusercontent.com/2200479/118378024-cc18b980-b60b-11eb-9ffa-8115e8d48b8c.jpg)
-
+<img src="https://user-images.githubusercontent.com/2200479/118378024-cc18b980-b60b-11eb-9ffa-8115e8d48b8c.jpg" width="640px">
 ConataはNFTファーストでメタバース社会を作っていくプロジェクトです。
 
 メタバースとはVRだけに限らずデジタルツイン。
@@ -21,7 +20,7 @@ ConataはNFTファーストでメタバース社会を作っていくプロジ�
 NFTはカッコイイ。というのをビジュアライズ化するために
 バーチャル空間でNFTの発行やNFT文化を歌や漫画にして発行してきました
 
-https://www.youtube.com/watch?v=IiNBph4wlSc
+[![](https://img.youtube.com/vi/IiNBph4wlSc/0.jpg)](https://www.youtube.com/watch?v=IiNBph4wlSc)
 
 <img src="https://user-images.githubusercontent.com/2200479/118378404-9fb26c80-b60e-11eb-9aa5-df3151f057be.jpg" width="320px">
 こんな漫画や、
@@ -50,9 +49,7 @@ NFTファーストな独自のシステム構築に時間や資産を投じて�
 ・秩序と混沌、平和と愛
 スマートなWebサイトを作るのではなく無駄を楽しむカオスを創り上げます。
 
-
-![ConataMarket](https://user-images.githubusercontent.com/2200479/118378031-d76be500-b60b-11eb-8420-53aef96c7346.png)
-
+<img src="https://user-images.githubusercontent.com/2200479/118378031-d76be500-b60b-11eb-8420-53aef96c7346.png" width="640px">
 
 Conataの開発予定機能
 ・マイルーム
