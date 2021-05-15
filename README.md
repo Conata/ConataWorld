@@ -25,12 +25,10 @@ NFTはカッコイイ。というのをビジュアライズ化するために�
 [![](https://img.youtube.com/vi/IiNBph4wlSc/0.jpg)](https://www.youtube.com/watch?v=IiNBph4wlSc)
 
 <img src="https://user-images.githubusercontent.com/2200479/118378404-9fb26c80-b60e-11eb-9aa5-df3151f057be.jpg" width="320px">
-こんな漫画や、
 <img src="https://user-images.githubusercontent.com/2200479/118378410-ae991f00-b60e-11eb-9fae-d521bdc438fa.jpg" width="320px">
-こんな設定等　<br> 
+こんな漫画や、設定等。　<br> 
 
-ただのサービスではなく、あくまでエンターテインメントであり　<br> 
-目指すはアジア最大のバーチャル観光都市です。　<br> 
+Conataはただのサービスではなく、エンターテインメントです。<br> 
 共にアジア最大の架空のバーチャル都市を創り上げませんか？　<br> 
 
 
