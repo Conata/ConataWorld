@@ -1,6 +1,12 @@
 
 # Welcome to Conata World
 
+
+<br/>
+README 日本語 <br/>
+https://github.com/Conata/ConataWorld/blob/main/README_JA.md <br/>
+<br/>
+
 ## What is Conata?
 
 <img src="https://user-images.githubusercontent.com/2200479/118378024-cc18b980-b60b-11eb-9ffa-8115e8d48b8c.jpg" width="640px">
@@ -13,9 +19,6 @@ In the end, we will provide NFT sales and purchases and associated communication
 
 For various background, click here <br/>
 https://note.com/conata_world/n/n8bf66b569104 <br/>
-
-README 日本語 <br/>
-https://github.com/Conata/ConataWorld/blob/main/README_JA.md <br/>
 
 
 ![image](https://user-images.githubusercontent.com/2200479/118698130-02904780-b84b-11eb-9a95-dcf4234f0141.png)
