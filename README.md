@@ -55,9 +55,11 @@ We also believe that it is very important to be in touch with the dev protocol i
 This part is also very important.
 
 
-## What I've done so far <br> 
-NFT is cool. In order to visualize the idea that NFT is cool, we have been <br> 
-In order to visualize that NFTs are cool, we have been publishing NFTs in virtual space and NFT culture in the form of songs and cartoons. 
+## Conata's World View　 <br> 
+NFT is cool. In order to visualize that　<br/>
+I've been publishing NFTs in virtual space, as well as songs and cartoons about NFT culture.　<br/>
+
+I've been working on a nostalgic but slightly new project that adds the concepts of VR, Web3, and blockchain to the cyberpunk worldview that originated in Japan. We have been working on these activities.<br/>
 
 [![](https://img.youtube.com/vi/IiNBph4wlSc/0.jpg)](https://www.youtube.com/watch?v=IiNBph4wlSc)
 
