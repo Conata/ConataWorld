@@ -4,9 +4,10 @@
 ## What is Conata?
 
 <img src="https://user-images.githubusercontent.com/2200479/118378024-cc18b980-b60b-11eb-9ffa-8115e8d48b8c.jpg" width="640px">
-Conata is a cyberpunk project from Japan, started by a VR and social game developer. <br/>
-<br/>Conata is a cyberpunk project from Japan, started by a single VR and social game developer. <br/>The service was created to create a metaverse society with NFT-first design principles. <br/>
-<br/> Metaverse is not limited to VR, but also envisions a digital twin, a world where the concept of the virtual is integrated into the real world.　<br/> <BR/>
+Conata is a cyberpunk project from Japan, started by a single VR and social game developer. <br/>
+The service was created to create a metaverse society with NFT-first design principles. <br/>
+
+<br/> Metaverse is not limited to VR, but also envisions a digital twin, a world where the concept of the virtual is integrated into the real world.　<br/> 
 
 In the end, we will provide NFT sales and purchases and associated communication services in a virtual space based on blockchain. <br/>
 
