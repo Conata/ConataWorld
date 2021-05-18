@@ -1,7 +1,7 @@
 
 # Welcome to Conata World
 
-##  Conataとは
+##  仮想商店 Conataとは
 
 <img src="https://user-images.githubusercontent.com/2200479/118378024-cc18b980-b60b-11eb-9ffa-8115e8d48b8c.jpg" width="640px">
 Conataはある一人のVR、ソーシャルゲーム開発者によって活動開始した日本発のサイバーパンクプロジェクトです。<br/>
@@ -12,6 +12,9 @@ Conataはある一人のVR、ソーシャルゲーム開発者によって活動
 
 様々な経緯はコチラ
 https://note.com/conata_world/n/n8bf66b569104
+
+
+![image](https://user-images.githubusercontent.com/2200479/118699971-15a41700-b84d-11eb-9eeb-faeffebe08ac.png)
 
 ## Conataの活動内容
 
@@ -35,25 +38,36 @@ https://note.com/conata_world/n/n8bf66b569104
 ### デジタルツイン
 　→現実の物品や作品、権利をトークン化し、流通しやすい状況を創る<br> 
  
+### NFT Token Graph
+　→ NFTを買うたびに思うことがあります。今これを買ってる人とは仲良くなれるであろうと。<br/>
+ NFTはただの売買活動ではないと思っています。クリエイターと買う側、そして買う人同士を強く結び付けてくれる技術だと。<br/>
+ インターネットの購買活動にエモが足される瞬間をより多くの人に届けられたらと思っています<br/>
+ 
 ## なぜ dev protocolを活用するのか
-2019年～2021年のConataは極々少人数のチームの熱意や好意によって開発されてきました。
-時には時間や資金がなく活動を停止せざるを得ないタイミングも。
-メタバースｘＮＦＴのための活動を持続可能にするためにDev protocolを活用することとしました。
+2019年～2021年のConataは極々少人数のチームの熱意や好意によって開発されてきました。<br/>
+時には時間や資金がなく活動を停止せざるを得ないタイミングも。<br/>
+メタバースｘＮＦＴのための活動を持続可能にするためにDev protocolを活用することとしました。<br/>
 
-また、DAO等の分散的組織を実現するためにもdev protocol に触れていくことはとても重要だと考えており
+また、DAO等の分散的組織を実現するためにもdev protocol に触れていくことはとても重要だと考えており<br/>
 この部分の比重もとても高いです。
 
 
-## 今までやってきたこと　<br> 
+## Conataの世界観　<br> 
 NFTはカッコイイ。というのをビジュアライズ化するために　<br> 
-バーチャル空間でNFTの発行やNFT文化を歌や漫画にして発行してきました　<br> 
+バーチャル空間でNFTの発行やNFT文化を歌や漫画にしてNFTを発行してきました　<br> 
+
+日本発だからこそのサイバーパンクな世界観にVRやWeb3、ブロックチェーンの概念を足した懐かしいけどちょっぴり新しい。
+といった活動をしてきています。
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0eRGP_RpnXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 [![](https://img.youtube.com/vi/IiNBph4wlSc/0.jpg)](https://www.youtube.com/watch?v=IiNBph4wlSc)
 
 <img src="https://user-images.githubusercontent.com/2200479/118378404-9fb26c80-b60e-11eb-9aa5-df3151f057be.jpg" width="320px">
 <img src="https://user-images.githubusercontent.com/2200479/118378410-ae991f00-b60e-11eb-9fae-d521bdc438fa.jpg" width="320px">
 こんな漫画や、設定等。　<br> 
-
 
 ## Manifesto　<br> 
 ### クリエイターに還元される社会を創る　<br> 
@@ -96,9 +110,16 @@ NFTファーストな独自のシステム構築に時間や資産を投じて�
 特に③は重要で、NFTには現実的にどのように使われるのか？というユースケースが非常に足りない状況です。
 短期的な収益を上げることはできませんがとても本質的に求められている活動だと認識しています。
 
-ConataではNFTファーストなービス設計をし、
 
 
 ## 共創するバーチャルカルチャー
-Conataはただのサービスではなく、エンターテインメントです。<br> 
+大資本を持ったプロジェクトには機能面や便利といった点で勝ちようがありません。 <br/>
+Conataは皆で共に創り上げる現実を非現実にするためのプロジェクトです。 <br/>
+
+言ってしまえば、ただのサービスではなく、エンターテインメントです。<br> 
+同じアホなら踊らにゃ踊れや踊れ。ということで
 共にアジア最大の架空のバーチャル都市を創り上げませんか？　<br> 
+
+
+![maezawa](https://user-images.githubusercontent.com/2200479/118699772-e2fa1e80-b84c-11eb-88cb-bc5c27db8620.png)
+
