@@ -60,7 +60,8 @@ NFTはカッコイイ。というのをビジュアライズ化するために�
 といった活動をしてきています。
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0eRGP_RpnXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![](https://img.youtube.com/vi/0eRGP_RpnXc/0.jpg)](https://www.youtube.com/watch?v=0eRGP_RpnXc)
 
 
 [![](https://img.youtube.com/vi/IiNBph4wlSc/0.jpg)](https://www.youtube.com/watch?v=IiNBph4wlSc)
