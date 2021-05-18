@@ -8,13 +8,15 @@ Conata is a cyberpunk project from Japan, started by a VR and social game develo
 <br/>Conata is a cyberpunk project from Japan, started by a single VR and social game developer. <br/>The service was created to create a metaverse society with NFT-first design principles. <br/>
 <br/> Metaverse is not limited to VR, but also envisions a digital twin, a world where the concept of the virtual is integrated into the real world.　<br/> <BR/>
 
-In the end, we will provide NFT sales and purchases and associated communication services in a virtual space based on blockchain.
+In the end, we will provide NFT sales and purchases and associated communication services in a virtual space based on blockchain. <br/>
 
-For various background, click here
-https://note.com/conata_world/n/n8bf66b569104
+For various background, click here <br/>
+https://note.com/conata_world/n/n8bf66b569104 <br/>
 
-README 日本語
-https://github.com/Conata/ConataWorld/blob/main/README_JA.md
+README 日本語 <br/>
+https://github.com/Conata/ConataWorld/blob/main/README_JA.md <br/>
+
+
 
 ## Activities of Conata.
 
@@ -30,7 +32,7 @@ https://github.com/Conata/ConataWorld/blob/main/README_JA.md
 #### Develop and publish NFTs for the metaverse <br> 
 　→Create avatar and spatial NFTs <br> 
 　
-  ! [image](https://user-images.githubusercontent.com/2200479/118693267-e1792800-b845-11eb-9af9-069bc6cdc337.png)
+  ![image](https://user-images.githubusercontent.com/2200479/118693267-e1792800-b845-11eb-9af9-069bc6cdc337.png)
 
 ### Data management for the multiverse <br> 
 　→Develop a system that does not confine itself to one world, but allows other VR services to easily interconnect with each other via Web 3.0 in the future <br> 
@@ -51,7 +53,7 @@ This part is also very important.
 NFT is cool. In order to visualize the idea that NFT is cool, we have been <br> 
 In order to visualize that NFTs are cool, we have been publishing NFTs in virtual space and NFT culture in the form of songs and cartoons. 
 
-[! [](https://img.youtube.com/vi/IiNBph4wlSc/0.jpg)](https://www.youtube.com/watch?v=IiNBph4wlSc)
+[![](https://img.youtube.com/vi/IiNBph4wlSc/0.jpg)](https://www.youtube.com/watch?v=IiNBph4wlSc)
 
 <img src="https://user-images.githubusercontent.com/2200479/118378404-9fb26c80-b60e-11eb-9aa5-df3151f057be.jpg" width="320px">
 <img src="https://user-images.githubusercontent.com/2200479/118378410-ae991f00-b60e-11eb-9fae-d521bdc438fa.jpg" width="320px">
@@ -60,22 +62,22 @@ Cartoons like this, settings, etc.　<br>
 
 ## Manifesto <br> 
 ### Create a society that gives back to creators <br> 
-　<br> ## Manifesto <br> ### Create a society that gives back to creators. 
+　We will support creators' creative activities and activities with our system. 
  https://github.com/ethereum/EIPs/issues/2571
-　<br> ### Create a society that gives back to creators <br> ### Create an environment where virtual creators can monetize their work. 
+　We will especially focus on creating an environment where virtual creators can monetize their work. 
  
  
-### Original System Priority Development <br> 
-We will not invest too much in multi-functional systems that are provided by other services. 
-<br> ### Proprietary System Priority Development <br> ### Proprietary System Priority Development <br> ### Proprietary System Priority Development <br> ### Proprietary System Priority Development <br> ### Proprietary System Priority Development We will invest our time and assets in building our own NFT-first system (we will develop it if necessary). 
+### Original system priority development
+We will not invest too much in multi-functions and other services that are provided by other services.
+We will invest our time and assets in building our own NFT-first system. We will invest our time and assets in building our own NFT-first system, and develop it if necessary.
 
 
-### I'll try not to get involved in the battle for disposable time. 
-<br> ### We will not participate in the battle for disposable time as much as possible. <br> ### We will prioritize designing communication services that extend our time rather than real-time communication.　<br> 
+### We will not participate in the battle for disposable time as much as possible.
+Our priority is to design communication services that extend your time rather than real-time communication.
 
 
 ### Order and chaos, peace and love <br> 
-<br> ### Order and chaos, peace and love.　<br> ### Order and Chaos, Peace and Love 
+We create chaos to enjoy waste rather than to create smart websites.　<br> 
 
 <img src="https://user-images.githubusercontent.com/2200479/118378031-d76be500-b60b-11eb-8420-53aef96c7346.png" width="640px">
 
@@ -89,7 +91,7 @@ We will not invest too much in multi-functional systems that are provided by oth
 　Upload virtual spaces, games and creations developed with Unity or UnrealEngine <br> 
 
 
-How will the funds raised by ## DEV be used?
+How will the funds raised by DEV protocol be used?
 
 We will use the funds for the following purposes
 　1) Securing human resources
@@ -99,12 +101,11 @@ We will use the funds for the following purposes
 Particularly, item (3) is important because NFT lacks use cases that show how it can be used in reality. NFT is lacking in use cases.
 Although we cannot generate short-term profits, we recognize that this is an activity that is essentially required.
 
-At Conata, we have designed an NFT-first service.
-
 
 ## Co-creating a virtual culture
-Conata is not just a service, it's entertainment. <Conata is not just a service, it is entertainment. 
-Conata is not just a service, it is entertainment.　<br> <br 
+Conata is not just a service, it's entertainment.
+Why don't we work together to create Asia's largest imaginary virtual city?
 
 
-Translated with www.DeepL.com/Translator (free version)
+
+![EIP2575](https://user-images.githubusercontent.com/2200479/118697337-2606c280-b84a-11eb-9005-063654123291.png)
