@@ -41,7 +41,11 @@ https://github.com/Conata/ConataWorld/blob/main/README_JA.md <br/>
  
 ### Digital Twin
 　→Create a situation in which real-world goods, works, and rights can be tokenized and easily distributed. 
- 
+
+### NFT Token Graph
+  → Originally, we thought that NFT would work well in solidly connecting fans and IPs, so we sympathized and developed it.
+We will develop services that utilize NFT's unique token graph.
+
 ## Why utilize dev protocol?
 Conata in 2019-2021 has been developed with the enthusiasm and goodwill of a very small team.
 At times, we have had to suspend our activities due to lack of time or funding.
