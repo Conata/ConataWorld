@@ -97,20 +97,20 @@ q
 　Upload virtual spaces, games and creations developed with Unity or UnrealEngine <br> 
 
 
-How will the funds raised by DEV protocol be used?
+##### How will the funds raised by DEV protocol be used? <br/>
 
-We will use the funds for the following purposes
-　1) Securing human resources
-　2) Legal and accounting
-　(3) Development costs for the Conata service.
+We will use the funds for the following purposes <br/>
+　(1) Securing human resources <br/>
+　(2) Legal and accounting <br/>
+　(3) Development costs for the Conata service. <br/>
 　
-Particularly, item (3) is important because NFT lacks use cases that show how it can be used in reality. NFT is lacking in use cases.
-Although we cannot generate short-term profits, we recognize that this is an activity that is essentially required.
+Particularly, item (3) is important because NFT lacks use cases that show how it can be used in reality. NFT is lacking in use cases. <br/>
+Although we cannot generate short-term profits, we recognize that this is an activity that is essentially required. <br/>
 
 
 ## Co-creating a virtual culture
-Conata is not just a service, it's entertainment.
-Why don't we work together to create Asia's largest imaginary virtual city?
+Conata is not just a service, it's entertainment. <br/>
+Why don't we work together to create Asia's largest imaginary virtual city? <br/>
 
 
 
