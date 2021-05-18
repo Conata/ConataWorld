@@ -58,6 +58,29 @@ We also believe that it is very important to be in touch with the dev protocol i
 This part is also very important.
 
 
+## Manifesto <br> 
+### Create a society that gives back to creators <br> 
+　We will support creators' creative activities and activities with our system. <br/>
+ https://github.com/ethereum/EIPs/issues/2571　<br/>
+　We will especially focus on creating an environment where virtual creators can monetize their work. 　<br/>
+ 
+ 
+### Original system priority development
+We will not invest too much in multi-functions and other services that are provided by other services.<br/>
+We will invest our time and assets in building our own NFT-first system. We will invest our time and assets in building our own NFT-first system, and develop it if necessary.<br/>
+
+
+### We will not participate in the battle for disposable time as much as possible.
+Our priority is to design communication services that extend your time rather than real-time communication.<br/>
+
+
+### Order and chaos, peace and love <br> 
+We create chaos to enjoy waste rather than to create smart websites.　<br> 
+
+<img src="https://user-images.githubusercontent.com/2200479/118378031-d76be500-b60b-11eb-8420-53aef96c7346.png" width="640px">
+q
+
+
 ## Conata's World View　 <br> 
 NFT is cool. In order to visualize that　<br/>
 I've been publishing NFTs in virtual space, as well as songs and cartoons about NFT culture.　<br/>
@@ -70,28 +93,6 @@ I've been working on a nostalgic but slightly new project that adds the concepts
 <img src="https://user-images.githubusercontent.com/2200479/118378410-ae991f00-b60e-11eb-9fae-d521bdc438fa.jpg" width="320px">
 Cartoons like this, settings, etc.　<br> 
 
-
-## Manifesto <br> 
-### Create a society that gives back to creators <br> 
-　We will support creators' creative activities and activities with our system. 
- https://github.com/ethereum/EIPs/issues/2571
-　We will especially focus on creating an environment where virtual creators can monetize their work. 
- 
- 
-### Original system priority development
-We will not invest too much in multi-functions and other services that are provided by other services.
-We will invest our time and assets in building our own NFT-first system. We will invest our time and assets in building our own NFT-first system, and develop it if necessary.
-
-
-### We will not participate in the battle for disposable time as much as possible.
-Our priority is to design communication services that extend your time rather than real-time communication.
-
-
-### Order and chaos, peace and love <br> 
-We create chaos to enjoy waste rather than to create smart websites.　<br> 
-
-<img src="https://user-images.githubusercontent.com/2200479/118378031-d76be500-b60b-11eb-8420-53aef96c7346.png" width="640px">
-q
 
 ## Future Conata features to be developed <br> 
 #### NFT My Room <br> 
