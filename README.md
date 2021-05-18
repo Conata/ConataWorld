@@ -89,7 +89,7 @@ We create chaos to enjoy waste rather than to create smart websites.　<br>
 q
 
 ## Future Conata features to be developed <br> 
-### My Room <br> 
+#### NFT My Room <br> 
 　We plan to make it editable. Probably upload method <br> 
 
 #### Allow users to develop their own services on their own domain (for corporations and billers) <br> 
