@@ -18,6 +18,7 @@ README 日本語 <br/>
 https://github.com/Conata/ConataWorld/blob/main/README_JA.md <br/>
 
 
+![image](https://user-images.githubusercontent.com/2200479/118698130-02904780-b84b-11eb-9a95-dcf4234f0141.png)
 
 ## Activities of Conata.
 
@@ -33,7 +34,7 @@ https://github.com/Conata/ConataWorld/blob/main/README_JA.md <br/>
 #### Develop and publish NFTs for the metaverse <br> 
 　→Create avatar and spatial NFTs <br> 
 　
-  ![image](https://user-images.githubusercontent.com/2200479/118693267-e1792800-b845-11eb-9af9-069bc6cdc337.png)
+ ![コメント 2020-03-08 141906](https://user-images.githubusercontent.com/2200479/118697673-84cc3c00-b84a-11eb-9092-27161f8047e1.png)
 
 ### Data management for the multiverse <br> 
 　→Develop a system that does not confine itself to one world, but allows other VR services to easily interconnect with each other via Web 3.0 in the future <br> 
@@ -81,7 +82,7 @@ Our priority is to design communication services that extend your time rather th
 We create chaos to enjoy waste rather than to create smart websites.　<br> 
 
 <img src="https://user-images.githubusercontent.com/2200479/118378031-d76be500-b60b-11eb-8420-53aef96c7346.png" width="640px">
-
+q
 
 ## Future Conata features to be developed <br> 
 ### My Room <br> 
